@@ -5,3 +5,4 @@ sk,shree good
 luv u
 
 changed sample3
+demo auto merge
