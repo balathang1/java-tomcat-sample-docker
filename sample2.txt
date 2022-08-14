@@ -5,5 +5,5 @@ sk,shree good
 sree kutti
 demo for rebase
 try merge
-okcool y not
+okcool y not ok ama
 >>>>>>> mybranch
