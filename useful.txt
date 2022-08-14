@@ -1,2 +1,2 @@
 stash
-testing stash
+testing multi stash and stash
