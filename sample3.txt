@@ -6,3 +6,4 @@ luv u
 
 changed sample3
 demo auto merge
+merge and rebase 3
