@@ -1,12 +1,8 @@
 hi how are you
 
 sk,shree good
-
-
-
-
-
-
+<<<<<<< HEAD
 sree kutti
 demo for rebase
+try merge
 >>>>>>> mybranch
