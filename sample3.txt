@@ -3,7 +3,9 @@ hi how are you
 sk,shree good
 
 luv u
+
 creating comple for merge conflicts in master
+
 changed sample3
 demo auto merge
 merge and rebase 3
