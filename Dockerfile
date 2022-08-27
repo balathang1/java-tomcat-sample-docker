@@ -1,3 +1,3 @@
 FROM tomcat
-EXPOSE 8080
+EXPOSE 9090
 CMD ["catalina.sh", "run"]
